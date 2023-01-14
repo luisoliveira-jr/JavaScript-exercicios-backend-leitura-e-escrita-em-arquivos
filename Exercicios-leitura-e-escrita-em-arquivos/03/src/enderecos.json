@@ -1,0 +1,26 @@
+[
+    {
+        "cep": "06246-070",
+        "logradouro": "Rua Doutor José Bonifácio de Oliveira",
+        "complemento": "",
+        "bairro": "Munhoz Júnior",
+        "localidade": "Osasco",
+        "uf": "SP",
+        "ibge": "3534401",
+        "gia": "4923",
+        "ddd": "11",
+        "siafi": "6789"
+    },
+    {
+        "cep": "05335-000",
+        "logradouro": "Rua Brasília Marcondes Buarque",
+        "complemento": "",
+        "bairro": "Jaguaré",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    }
+]
